@@ -1,0 +1,11 @@
+[
+    {
+        "model": "apps.demo.post",
+        "pk": "1",
+        "fields": {
+            "text": "This is a test post.",
+            "timestamp": "2024-11-16T12:10:00Z",
+            "user_username": "shyam"
+        }
+    }
+]
